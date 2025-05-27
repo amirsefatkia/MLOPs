@@ -1,11 +1,11 @@
 {
     "path": "$MLOPS",
     "load_package_once": true,
-    "version": "20.0",
+    "version": "20.5",
     "enable": true,
     "env": [
         {
-            "MLOPS": "Y:/Archive/3D Archive/3DPlugins/__Houdini Plugin/MLOPS2"
+            "MLOPS": "Y:/Archive/3D Archive/3DPlugins/__Houdini Plugin/MLOPS3"
         },
         {
             "MLOPS_MODELS": "$MLOPS/data/models/"
