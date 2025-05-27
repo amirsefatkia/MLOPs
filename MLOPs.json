@@ -5,7 +5,7 @@
     "enable": true,
     "env": [
         {
-            "MLOPS": "H:/Github/MLOPS/"
+            "MLOPS": "Y:/Archive/3D Archive/3DPlugins/__Houdini Plugin/MLOPS2"
         },
         {
             "MLOPS_MODELS": "$MLOPS/data/models/"
